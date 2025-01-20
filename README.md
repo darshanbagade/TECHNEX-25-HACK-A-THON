@@ -1,0 +1,1 @@
+# technex-2025-hackathon
