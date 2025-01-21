@@ -1,0 +1,14 @@
+{
+  "name": "technex-2025",
+  "version": "1.0.0",
+  "description": "**HealthChainAI** is a Blockchain-powered platform integrated with Deep Learning to ensure secure medical data sharing and provide intelligent medical insights. The platform combines decentralized storage with AI-driven predictions to enhance healthcare outcomes while ensuring privacy and transparency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.0.9"
+  }
+}
